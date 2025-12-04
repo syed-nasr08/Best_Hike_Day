@@ -11,11 +11,11 @@ An Android application that helps you find the best day for hiking by analyzing 
 - 🎨 **Modern UI**: Built with Jetpack Compose and Material Design 3
 
 ## Screenshots
-<img width="1024" height="1536" alt="Hiking Icon" src="https://github.com/user-attachments/assets/49af8932-9962-4e5a-9065-c3b991e78641" />
-<img width="1080" height="2175" alt="Screenshot_20251203-202136" src="https://github.com/user-attachments/assets/6e54fbd0-3798-461b-b49c-716ae7f9a76a" />
-<img width="1080" height="2216" alt="Screenshot_20251203-202151" src="https://github.com/user-attachments/assets/be8b5502-20b6-4ced-bec4-eaf43b6f68cd" />
-<img width="1080" height="2260" alt="Screenshot_20251203-202205" src="https://github.com/user-attachments/assets/9dce0ad4-6030-4368-ac38-f99c11d2c7d5" />
-<img width="1080" height="2162" alt="Screenshot_20251203-202218" src="https://github.com/user-attachments/assets/0a8576eb-ad40-416b-8b28-41db2b51cd25" />
+<img width="1024" height="1024" alt="Hiking Icon" src="https://github.com/user-attachments/assets/49af8932-9962-4e5a-9065-c3b991e78641" />
+<img width="1080" height="1024" alt="Screenshot_20251203-202136" src="https://github.com/user-attachments/assets/6e54fbd0-3798-461b-b49c-716ae7f9a76a" />
+<img width="1080" height="1024" alt="Screenshot_20251203-202151" src="https://github.com/user-attachments/assets/be8b5502-20b6-4ced-bec4-eaf43b6f68cd" />
+<img width="1080" height="1024" alt="Screenshot_20251203-202205" src="https://github.com/user-attachments/assets/9dce0ad4-6030-4368-ac38-f99c11d2c7d5" />
+<img width="1080" height="1024" alt="Screenshot_20251203-202218" src="https://github.com/user-attachments/assets/0a8576eb-ad40-416b-8b28-41db2b51cd25" />
 
 
 
