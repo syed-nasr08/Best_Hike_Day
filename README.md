@@ -12,7 +12,11 @@ An Android application that helps you find the best day for hiking by analyzing 
 
 ## Screenshots
 
-*Add screenshots of your app here*
+Hiking Icon.png
+Screenshot_20251203-202218.png
+Screenshot_20251203-202205.png
+Screenshot_20251203-202151.png
+Screenshot_20251203-202136.png
 
 ## Prerequisites
 
